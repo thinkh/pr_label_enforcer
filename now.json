@@ -4,7 +4,7 @@
   "alias": "ple",
   "builds": [
     {
-      "src": "/lib/index.js",
+      "src": "lib/index.js",
       "use": "@now/node"
     }
   ],
